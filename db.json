@@ -1,0 +1,144 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Krishna"
+    },
+    {
+      "id": "fe31",
+      "name": "Jeanette Jerde"
+    },
+    {
+      "id": "68d3",
+      "name": "Tracey Reinger"
+    },
+    {
+      "id": "4531",
+      "name": "Diana Boehm"
+    }
+  ],
+  "albums": [
+    {
+      "id": 1,
+      "title": "Abdul Kalam",
+      "userId": 1
+    },
+    {
+      "id": "0afd",
+      "title": "lopsi",
+      "userId": 5
+    },
+    {
+      "id": "5cef",
+      "title": "lopsi",
+      "userId": 5
+    },
+    {
+      "id": "b7c6",
+      "title": "lopsi",
+      "userId": 5
+    },
+    {
+      "id": "764e",
+      "title": "lopsi",
+      "userId": 5
+    },
+    {
+      "id": "6e3b",
+      "title": "lopsi",
+      "userId": 5
+    },
+    {
+      "id": "41cd",
+      "title": "lopsi",
+      "userId": 5
+    },
+    {
+      "id": "cd20",
+      "title": "lopsi",
+      "userId": 5
+    },
+    {
+      "id": "f720",
+      "title": "Oriental Frozen Computer",
+      "userId": 1
+    },
+    {
+      "id": "e212",
+      "title": "Tasty Rubber Towels",
+      "userId": 1
+    },
+    {
+      "id": "d985",
+      "title": "Incredible Frozen Mouse",
+      "userId": 1
+    },
+    {
+      "id": "f07a",
+      "title": "Rustic Frozen Cheese",
+      "userId": 1
+    },
+    {
+      "id": "5a85",
+      "title": "Generic Concrete Keyboard",
+      "userId": 1
+    },
+    {
+      "id": "c9d9",
+      "userId": "fe31",
+      "title": "Rustic Granite Chicken"
+    },
+    {
+      "id": "ebcf",
+      "userId": 1,
+      "title": "Practical Wooden Tuna"
+    }
+  ],
+  "photos": [
+    {
+      "id": "d67a",
+      "albumId": "c9d9",
+      "url": "https://loremflickr.com/150/150/abstract?lock=2819354571833344"
+    },
+    {
+      "id": "64f9",
+      "albumId": "c9d9",
+      "url": "https://loremflickr.com/150/150/abstract?lock=2995430535200768"
+    },
+    {
+      "id": "05de",
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=7751237743149056"
+    },
+    {
+      "id": "a838",
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=5671276284739584"
+    },
+    {
+      "id": "2481",
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=7790522034814976"
+    },
+    {
+      "id": "d64c",
+      "albumId": 1,
+      "url": "https://loremflickr.com/640/480?lock=7101614689091584"
+    },
+    {
+      "id": "17c4",
+      "albumId": 1,
+      "url": "https://loremflickr.com/640/480?lock=8716959680036864"
+    },
+    {
+      "id": "4a74",
+      "albumId": "f720",
+      "url": "https://picsum.photos/seed/7ETYdRq/640/480"
+    },
+    {
+      "id": "f4a6",
+      "albumId": "f720",
+      "url": "https://loremflickr.com/640/480?lock=3664664414126080"
+    }
+  ]
+}
